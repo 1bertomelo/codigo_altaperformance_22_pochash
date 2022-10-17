@@ -28,7 +28,7 @@ namespace PocHash
 
 		public void Inserir(int item)
 		{
-			int posicao = FuncoHashModular(item);
+			//int posicao = FuncoHashModular(item);
 			if(N == QtdeInserida)
 				throw new NotImplementedException("Não é possível inserir, vetor sem espaço");
 			else
@@ -38,7 +38,7 @@ namespace PocHash
 
 				while (!inseriu)
 				{
-					posicao = FuncoHashModular(item+i);
+					int posicao = FuncoHashModular(item+i);
 					if (PosicaoVazia(posicao))
 					{
 						Vetor[posicao] = item;

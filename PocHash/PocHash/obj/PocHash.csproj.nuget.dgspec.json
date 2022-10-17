@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\PocHash\\PocHash\\PocHash.csproj": {}
+    "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\hash\\PocHash\\PocHash\\PocHash.csproj": {}
   },
   "projects": {
-    "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\PocHash\\PocHash\\PocHash.csproj": {
+    "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\hash\\PocHash\\PocHash\\PocHash.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\PocHash\\PocHash\\PocHash.csproj",
+        "projectUniqueName": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\hash\\PocHash\\PocHash\\PocHash.csproj",
         "projectName": "PocHash",
-        "projectPath": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\PocHash\\PocHash\\PocHash.csproj",
+        "projectPath": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\hash\\PocHash\\PocHash\\PocHash.csproj",
         "packagesPath": "C:\\Users\\betom\\.nuget\\packages\\",
-        "outputPath": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\PocHash\\PocHash\\obj\\",
+        "outputPath": "D:\\faculdade\\2022_2\\CA\\codigos_aula\\hash\\hash\\PocHash\\PocHash\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
